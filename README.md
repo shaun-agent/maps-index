@@ -24,6 +24,7 @@
 
 - `thesis-engineering-map`
 - `machine-assisted-proof-map`
+- `understanding-layer-map`
 
 ## Registering a new map
 
